@@ -1,5 +1,5 @@
 # Departmental Store Software
 
- ` #0969DA color` **TECH STACK**: Tkinter
+ `**TECH STACK**`: _Tkinter_
 
 Basic software for general store operations 
