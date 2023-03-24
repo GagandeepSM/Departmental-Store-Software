@@ -1,5 +1,5 @@
-#Departmental Store Software
+# Departmental Store Software
 
-TECH STACK: Tkinter
+ `#0969DA` TECH STACK: Tkinter
 
 Basic software for general store operations 
