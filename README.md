@@ -1,3 +1,5 @@
-# Tkinter-Projects
+#Departmental Store Software
 
-Basic projects made using Tkinter
+TECH STACK: Tkinter
+
+Basic software for general store operations 
